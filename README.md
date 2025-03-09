@@ -6,7 +6,7 @@ Welcome to the **To-Do App** repository! This is a simple and intuitive task man
 
 ## Screenshot
 
-![To-Do App Screenshot](./screenshot.jpeg)  
+![To-Do App Screenshot](./screenshot.png)  
 *Preview of the To-Do App in action.*
 
 ---
