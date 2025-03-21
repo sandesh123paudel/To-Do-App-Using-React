@@ -1,6 +1,7 @@
 # To-Do App Using React
 
-Welcome to the **To-Do App** repository! This is a simple and intuitive task management application built using **React**. It allows you to add, complete, and delete tasks, helping you stay organized and productive. The app is also hosted and can be accessed live at [https://sandeshpaudel-todoapp.netlify.app/](https://sandeshpaudel-todoapp.netlify.app/).
+Welcome to the **To-Do App** repository! This is a simple and intuitive task management application built using **React**. It allows you to add, complete, and delete tasks, helping you stay organized and productive. The app is also hosted and can be accessed live at
+ [https://sandeshpaudel-todoapp.netlify.app/](https://sandeshpaudel-todoapp.netlify.app/).
 
 ---
 
