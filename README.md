@@ -61,3 +61,5 @@ This project is open-source and available under the [MIT License](./LICENSE).
 ---
 
 Enjoy using the **To-Do App**! If you have any questions or feedback, feel free to reach out. 😊
+
+Happy Coding ❣️
